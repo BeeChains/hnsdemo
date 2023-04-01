@@ -8,7 +8,7 @@
 			display: inline-block;
 			width: 200px;
 			height: 200px;
-			background-color: #F2F2F2;
+			background-color: #020320;
 			border-radius: 50%;
 			overflow: hidden;
 			box-shadow: 0px 0px 5px #888888;
@@ -19,7 +19,7 @@
 			left: 50%;
 			width: 60px;
 			height: 60px;
-			background-color: #000;
+			background-color: #777000;
 			border-radius: 50%;
 			transform: translate(-50%, -50%);
 			transition: all 0.3s ease-in-out;
