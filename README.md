@@ -47,4 +47,4 @@
 </body>
 </html>
 # hnsdemo
-https://reg.uncensorednames.com/tld/hnsdemo
+<a href="https://reg.uncensorednames.com/tld/hnsdemo">hnsdemo</a>
