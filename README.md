@@ -41,7 +41,7 @@
 <body>
 	<div class="eye">
 		<div class="pupil">
-			<i>Inner I</i>
+			<i>I</i>
 		</div>
 	</div>
 </body>
