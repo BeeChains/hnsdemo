@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-The color of the pupil (020320) is Handshake's Birthday 02-03-2020 and sybolizes the roots of Inner I Network. The green color code is (127001) for Inner Growth!	
+The color of the pupil (#020320) is Handshake's Birthday 02-03-2020 and sybolizes the roots of Inner I Network. The green color code is (#127001) for Inner Growth!	
 <head>
 	<title>Interactive I in Eye</title>
 	<style>
