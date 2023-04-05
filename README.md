@@ -9,7 +9,7 @@ The color of the pupil (#020320) is Handshake's Birthday 02-03-2020 and sybolize
 			display: inline-block;
 			width: 200px;
 			height: 200px;
-			background-color: #127001;
+			background-color: #127005;
 			border-radius: 50%;
 			overflow: hidden;
 			box-shadow: 0px 0px 5px #888888;
